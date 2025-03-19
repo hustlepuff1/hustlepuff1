@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Min</h1>
-<h3 align="center">A wanna be Control Engineer with a passion for coding</h3>
+<h3 align="center">A wanna be Engineer with a passion for coding</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hustlepuff1&label=Profile%20views&color=c20f8a&style=flat" alt="hustlepuff1" /> </p>
 
